@@ -52,7 +52,8 @@ No SQL နဲ့ သိမ်း။
 ✅ Subjects & Class Organization
 ✅ Dynamic Timetable Scheduling
 ✅ Exam & Marks Management
-✅ Filament Admin Panel Integration
+
+
     "
 }
 ```
